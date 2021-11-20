@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://http://143.244.185.168/api-mgseguridad';
+$config['base_url'] = 'http://143.244.185.168/api-mgseguridad';
 
 /*
 |--------------------------------------------------------------------------
